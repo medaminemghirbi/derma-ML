@@ -13,5 +13,5 @@ uploads
 # Ignore IDE-specific files
 .vscode/
 .idea/
-
+.gitignore
 
