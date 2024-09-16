@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+.env/
+venv/
+ENV/
+env/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and model files
+data/
+statisc/uploads
+uploads
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+
