@@ -5,4 +5,3 @@ pandas
 gunicorn
 joblib
 scikit-learn
-os
